@@ -1,0 +1,1 @@
+- [Product direction](ghost-auth-hub-direction.md) — continue this project as the Ghost auth hub.

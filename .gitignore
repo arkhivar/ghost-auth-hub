@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Local Replit uploads and conversation context are not application assets.
+attached_assets/
